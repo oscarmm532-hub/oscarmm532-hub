@@ -1,4 +1,4 @@
-# Oscar-Montalvan-Oscar-Montalvan
+# Portfolio-Oscar-Montalvan
 Personal GitHub profile and Data Science Engineering portfolio.
 # Hi, I'm Oscar Montalvàn 👋
 **Aspiring Data Science Engineer** | Python • Pandas • SQL & NoSQL • Machine Learning
