@@ -1,6 +1,6 @@
 # Oscar-Montalvan-Oscar-Montalvan
 Personal GitHub profile and Data Science Engineering portfolio.
-# Hi, I'm [Tu Nombre] 👋
+# Hi, I'm Oscar Montalvàn 👋
 **Aspiring Data Science Engineer** | Python • Pandas • SQL & NoSQL • Machine Learning
 
 I build end-to-end data pipelines and predictive models, taking raw data from extraction and cleaning to interactive web applications.
