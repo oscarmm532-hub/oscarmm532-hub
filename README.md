@@ -13,3 +13,5 @@ I build end-to-end data pipelines and predictive models, taking raw data from ex
 
 ### 📌 Featured Projects
 *(Coming soon — currently building my first end-to-end data pipeline)*
+**[Cryptocurrency Market ETL Pipeline]
+https://github.com/oscarmm532-hub/crypto-market-etl-pipeline/blob/main/README.md
