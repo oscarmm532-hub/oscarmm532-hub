@@ -15,3 +15,5 @@ I build end-to-end data pipelines and predictive models, taking raw data from ex
 <img width="1485" height="735" alt="volatility_chart" src="https://github.com/user-attachments/assets/4f4f35f0-5e35-4e11-bb6e-643190bc6259" />
 
 2. **[Customer Churn Prediction App](https://github.com/oscarmm532-hub/customer-churn-ml-app)** | **[Live Web App](https://oscar-churn-predictor.streamlit.app/)** — End-to-end Machine Learning classification pipeline (Scikit-Learn) and interactive Streamlit application to predict customer retention risk in real time.
+<img width="472" height="361" alt="image" src="https://github.com/user-attachments/assets/666de897-de01-4e8a-8134-88860f91ed70" />
+
