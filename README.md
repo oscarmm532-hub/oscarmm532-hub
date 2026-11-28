@@ -21,4 +21,4 @@ I build end-to-end data pipelines and predictive models, taking raw data from ex
 <img width="536" height="197" alt="image" src="https://github.com/user-attachments/assets/ed820803-02fa-4916-8eb2-039798dddf5e" />
 
 
-4. **[Retail Sales Time Series Forecasting](https://github.com/oscarmm532-hub/retail-sales-forecasting)** | **[Live Web App](TU_ENLACE_DE_STREAMLIT)** — Time series forecasting system using Gradient Boosting and Fourier seasonal features with an interactive Streamlit dashboard.
+4. **[Retail Sales Time Series Forecasting](https://github.com/oscarmm532-hub/retail-sales-forecasting)** | **[Live Web App](https://oscar-sales-forecast.streamlit.app/)** — Time series forecasting system using Gradient Boosting and Fourier seasonal features with an interactive Streamlit dashboard.
